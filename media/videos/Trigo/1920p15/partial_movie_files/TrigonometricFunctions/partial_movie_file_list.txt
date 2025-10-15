@@ -1,0 +1,3 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Gabriel/Desktop/T. Formulario/media/videos/Trigo/1920p15/partial_movie_files/TrigonometricFunctions/996267648_337218749_1370421120.mp4'
+file 'file:C:/Users/Gabriel/Desktop/T. Formulario/media/videos/Trigo/1920p15/partial_movie_files/TrigonometricFunctions/611260149_1245216585_2456339360.mp4'
